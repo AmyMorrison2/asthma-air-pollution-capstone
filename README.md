@@ -10,5 +10,5 @@ https://colab.research.google.com/drive/1YcjAO96w7KlhFpl3BMaMLnczomQ4GboD?usp=sh
 Methodology
 https://colab.research.google.com/drive/1SNCeSOyNWsf3g3JGWhiq_lGADApKec_I?usp=sharing
 
-Revised Methodlogy
+Revised Methodology/Results
 https://colab.research.google.com/drive/1mwpEtL1DBgkFm_ezMgjCi5ITrASR0g7m?usp=sharing
