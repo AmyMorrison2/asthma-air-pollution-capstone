@@ -7,6 +7,9 @@ Amy Morrison, Brittney Chase, Malika Lugogo, Sophia Devan
 EDA
 https://colab.research.google.com/drive/1YcjAO96w7KlhFpl3BMaMLnczomQ4GboD?usp=sharing
 
+EDA with Revision
+https://colab.research.google.com/drive/11v1Y_1grDv037ewF9NMf2wM9n8jSqZOl?usp=sharing
+
 Methodology
 https://colab.research.google.com/drive/1SNCeSOyNWsf3g3JGWhiq_lGADApKec_I?usp=sharing
 
