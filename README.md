@@ -15,3 +15,6 @@ https://colab.research.google.com/drive/1SNCeSOyNWsf3g3JGWhiq_lGADApKec_I?usp=sh
 
 Revised Methodology/Results
 https://colab.research.google.com/drive/1mwpEtL1DBgkFm_ezMgjCi5ITrASR0g7m?usp=sharing
+
+Additional k-means clustering analysis attempts
+https://colab.research.google.com/drive/1UWoefxeJ9uGBuKZUpdjcAS2rtXJTIzod?usp=sharing
